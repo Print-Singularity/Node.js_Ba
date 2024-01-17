@@ -1,0 +1,11 @@
+mkdir "name_folder"
+cd "name_folder"
+open vscode
+npm init -y
+npm install express
+node --watch "filename"
+npm install
+npm install --save mysql2 
+npm i swagger-ui-express
+npm install yaml
+npm install cors
